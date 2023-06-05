@@ -1,0 +1,15 @@
+.input{
+    background-color: #451682;
+    border: 5px solid white;
+    color:white;
+    width: 556px;
+    height: 30px;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 10px;
+}
+@media only screen and (max-width: 600px){
+    .input{
+        width: 336px;
+    }
+}
